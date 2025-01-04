@@ -10,7 +10,7 @@ function App() {
 
       <div className='container'>
         <div className="row">
-          <div className="col-6 offset-2">
+          <div className="col-12">
             <h1>React</h1>
             <div className="card">
               <button onClick={() => setCount((count) => count + 1)}>
